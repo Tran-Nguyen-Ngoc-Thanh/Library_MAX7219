@@ -50,7 +50,7 @@ Sau đó chọn: Interface option -> SPI -> Enable
   
 ### Cài đặt và sử dụng  
 Bước 1:  
-Tạo ra 2 file MAX7219.c và file MAX7219.h hoặc tải hoặc tham khảo 2 file code trên github. 
+Tạo ra 2 file Max7219.c và file Max7219.h hoặc tải hoặc tham khảo 2 file code trên github. 
 
 Bước 2:  
 Chuyển file .c thành file .o:
