@@ -50,7 +50,7 @@ Sau đó chọn: Interface option -> SPI -> Enable
   
 ### Cài đặt và sử dụng  
 Bước 1:  
-Tạo ra 2 file MAX7219.c và file MAX7219.h hoặc tải 2 file code trên github. 
+Tạo ra 2 file MAX7219.c và file MAX7219.h hoặc tải hoặc tham khảo 2 file code trên github. 
 
 Bước 2:  
 Chuyển file .c thành file .o:
@@ -140,6 +140,7 @@ void Max7219_display_matrix_inclined_direction(float angle_x, float angle_y)
 ```c
 void Max7219_scroll_text(const char *text, int speed)
 ```
+## 📌📌Lưu ý: Một số hàm có thể có chức năng chưa hoàn toàn đúng, người dùng có thể viết lại hoặc tối ưu code để phù hợp với mục đích sử dụng 📌📌
 
 # Tài liệu tham khảo
 - [Datasheet MAX7219](https://www.analog.com/media/en/technical-documentation/data-sheets/max7219-max7221.pdf)
