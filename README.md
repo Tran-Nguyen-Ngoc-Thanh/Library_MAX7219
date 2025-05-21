@@ -144,4 +144,4 @@ void Max7219_scroll_text(const char *text, int speed)
 
 # Tài liệu tham khảo
 - [Datasheet MAX7219](https://www.analog.com/media/en/technical-documentation/data-sheets/max7219-max7221.pdf)
-- Datasheet SPI: [/1/](https://www.analog.com/en/resources/analog-dialogue/articles/introduction-to-spi-interface.html), [/2/](https://www.analog.com/en/resources/analog-dialogue/articles/uart-a-hardware-communication-protocol.html)
+- Datasheet SPI: [/1/](https://www.analog.com/en/resources/analog-dialogue/articles/introduction-to-spi-interface.html), [/2/](https://www.analog.com/en/resources/app-notes/an-1248.html)
